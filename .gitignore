@@ -1,5 +1,6 @@
 .cowboy.plt
 .erlang.mk
+_build
 _rel
 cowboy.d
 deps
